@@ -36,6 +36,13 @@ From using tools like Postman to writing your first line of code, we’ll walk y
 - [What Happens in a Sprint?](working-with-devs/sprint-basics.md)
 - [What’s a Pull Request? Why Should I Care?](working-with-devs/pull-requests.md)
 
+### 🧠 Behind the Tech
+- [What Is Redis? A Simple Explanation for Non-Developers](behind-the-tech/redis.md)
+
+### 🧱 Patterns and Pitfalls
+- [Race Conditions: What They Are and How to Avoid Them](patterns-and-pitfalls/race-condition.md)
+
+
 ---
 
 💡 This project is open source and growing! Got a topic you’d love to learn about? [Submit an idea](../CONTRIBUTING.md) or open an [issue](https://github.com/alihoss3ini/tech-made-simple/issues) on GitHub.
